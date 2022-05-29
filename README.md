@@ -1,5 +1,5 @@
 # Shopist
-
+## This is a E-Commerce site build in Angular.js.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
